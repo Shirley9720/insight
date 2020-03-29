@@ -1,3 +1,2 @@
 # insight
-python
-the new world
+Part of my daily plan for studying Python.
